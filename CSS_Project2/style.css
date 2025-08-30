@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gilroy';
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+#nav {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 20px;
+    padding: 0px 80px;
+}
+
+#nav h4{
+    font-size: 17px;
+}
+
+#nav i{
+    gap: 20px;
+    font-size: 19px;
+    color: white;
+    background-color: black;
+    padding: 8px;
+    border-radius: 50%;
+    font-weight: 400
+}
+
+#mid {
+    width: 100%;
+    padding: 30px 70px;
+}
+
+#mid h1{
+    font-size: 65px;
+    font-weight: 500;
+    line-height: 65px;
+}
+
+#midb {
+    padding-top: 10px;
+    padding-left: 70px;
+    height: 150px;
+    font-weight: 600;
+    line-height: 27px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#right {
+    width: 25%;
+    padding-top: 20px;
+}
+
+.elem{
+    padding: 15px 0px;
+    border-top: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.elem a{
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.elem i{
+    font-size: 21px;
+    font-weight: 400;
+    opacity: 0;
+}
+
+.elem:hover i{
+    opacity: 1;
+}
+
+.elem:hover a{
+    text-decoration: underline;
+}
+
+#bottom {
+    margin-top: 80px;
+    height: 60%;
+    background-image: url(//images.unsplash.com/photo-1608666020516-0369576d5752?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGxlYXRoZXIlMjBqYWNrZXQlMjBtb2RlbHxlbnwwfHwwfHx8MA%3D%3D;);
+    background-size: cover;
+    background-position: 0 41%;
+}
+

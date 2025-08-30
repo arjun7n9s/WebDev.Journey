@@ -1,0 +1,218 @@
+/* Gilroy
+Work Sans */
+
+/* Thin - 100 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* ExtraLight / UltraLight - 200 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy-UltraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* Light - 300 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Regular - 400 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Medium - 500 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* SemiBold - 600 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Bold - 700 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* ExtraBold - 800 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Black/Heavy - 900 */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('fonts/Gilroy-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Thin - 100 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* Thin Italic - 100 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* ExtraLight - 200 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* ExtraLight Italic - 200 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+/* Light - 300 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Light Italic - 300 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Regular - 400 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Italic - 400 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Medium - 500 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Medium Italic - 500 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* SemiBold - 600 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* SemiBold Italic - 600 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Bold - 700 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Bold Italic - 700 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* ExtraBold - 800 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* ExtraBold Italic - 800 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Black - 900 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Black Italic - 900 */
+@font-face {
+  font-family: 'Work Sans';
+  src: url('fonts/WorkSans-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
